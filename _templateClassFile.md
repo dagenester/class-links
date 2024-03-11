@@ -1,6 +1,6 @@
 # <CLASS_ID> Helpful Class Links
 
->[!HOWDY]
+>[!WARNING]
 _This information is provided as-is, no warranties or guarantees.  There is no guarantee of passing an exam
 based on the contents of this file.  
 This information is provided to help someone learn and to be used as an aid for research.
