@@ -12,6 +12,8 @@ Feel free to share this information as you see fit._
 
 ## Google Class Link for [Google Associate Cloud Engineer](https://www.skills.google/paths/11)
 
-## Links
-- [Google Cloud SDK Documentation](https://docs.cloud.google.com/sdk/docs/configurations)
-- 
+## gcloud Information
+- [gcloud CLI overview | Google Cloud Documentation](https://docs.cloud.google.com/sdk/gcloud)
+- [The gcloud CLI cheat sheet | Google Cloud Documentation](https://docs.cloud.google.com/sdk/docs/cheatsheet)
+- [Managing gcloud CLI configurations | Google Cloud Documentation](https://docs.cloud.google.com/sdk/docs/configurations)
+- [Authentication methods at Google | Google Cloud Documentation](https://docs.cloud.google.com/docs/authentication)
