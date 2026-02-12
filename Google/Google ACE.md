@@ -13,5 +13,5 @@ Feel free to share this information as you see fit._
 ## Google Class Link for [Google Associate Cloud Engineer](https://www.skills.google/paths/11)
 
 ## Links
-- [Google Cloud SDK Documentation](https://cloud.google.com/sdk/gcloud/reference/configurations)
+- [Google Cloud SDK Documentation](https://docs.cloud.google.com/sdk/docs/configurations)
 - 
